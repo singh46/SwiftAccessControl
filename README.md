@@ -1,9 +1,9 @@
 # SwiftAccessControl
 Swift Access Control Sample Code
-<img width="492" alt="Screenshot" src="https://user-images.githubusercontent.com/4987370/183243294-caab1558-64a9-4df1-ad4d-92e4753a4c5d.png">
 
+<img width="345" alt="screenshot" src="https://user-images.githubusercontent.com/4987370/183244066-4ea486e3-8f1c-4b3c-9198-4c0fb650f494.png">
 
-Checkout code and walk through with project as well as framework code to understand the access control with example.
+Checkout and walkthrough the code in the project as well as in the framework to understand the access control with example.
 <br />
 <br />
 
