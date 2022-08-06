@@ -4,3 +4,15 @@ Swift Access Control Sample Code
 
 
 Checkout code and walk through with project as well as framework code to understand the access control with example.
+<br />
+<br />
+
+**Important source files in sample project (SwiftAccessControl) :**\
+AccessSampleClassOne.swift\
+AccessSampleClassTwo.swift\
+AccessSampleFromFramework.swift
+
+<br />
+
+**Important source files in framework (SwiftAccessControlFramework) :**\
+AccessControl.swift
